@@ -1,2 +1,2 @@
-# PlaneTracking-ARFoundationUnity3D
-PlaneTracking-ARFoundationUnity3D
+# Tutorial AR Foundation
+Tutorial AR Foundation
